@@ -24,6 +24,7 @@ kf5-5-108-qt-5-15-10-core22
 ngrok
 poedit
 postman
+phpstorm
 qt513
 sftpclient
 slack
